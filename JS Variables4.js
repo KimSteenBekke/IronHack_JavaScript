@@ -3,7 +3,7 @@ let favoriteFood;
 favoriteFood = "Steak";
 console.log(favoriteFood);
 
-favoriteFood = "Pizza";
+favoriteFood = "Sushi";
 console.log(favoriteFood);
 
 price = 20;
