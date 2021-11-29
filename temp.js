@@ -1,7 +1,7 @@
 function daysInMonth(month) {
     switch (month) {
       case "1":
-        return "31";
+        return "32";
         
     }
   }
