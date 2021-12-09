@@ -3,8 +3,8 @@ let scissors = 'scissors';
 let paper = 'paper';
 
 // these two variables will be changed to test the conditional
-let firstPlayerChoice = rock;
-let secondPlayerChoice = rock;
+let firstPlayerChoice = 'scissors';
+let secondPlayerChoice = 'rock';
 
 let firstPossibility;
 firstPossibility = firstPlayerChoice === rock && secondPlayerChoice === scissors;
